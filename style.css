@@ -1,0 +1,66 @@
+body {
+    width: cover;
+    background: #273549;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin-top: 50px;
+    background: #1F2937;
+    width: 550px;
+    height: 450px;
+    color: white;
+    padding-top: 60px;
+    border-radius: 10px;
+}
+
+h1{
+    padding-left: 50px;
+}
+
+#sub{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #D5D4D8;
+}
+
+#create {
+    margin-left: 50px;
+    margin-top: 40px;
+    padding: 10px 15px 10px 15px;
+    background: #10B981;
+    border: 0px;
+    border-radius: 4px;
+}
+
+#line {
+    
+    width: 500px;
+    color: #2F3E53;
+}
+
+.passwords {
+     text-align: center;
+     margin-top: 30px;
+}
+
+.generated {
+    display: inline-flex; 
+    border: 0px;
+    padding: 10px 5px 10px 5px;
+    margin: 20px;
+    border-radius: 5px;
+    width: 211px;
+    justify-content: center;
+    background: #273549;
+    color: #10B981;
+    height: 30px;
+    font-size: 15px;
+}
+
+.greenify {
+    margin-top: -10px;
+    color: #10B981;
+}
